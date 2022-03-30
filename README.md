@@ -1,4 +1,5 @@
 DIABETES PREDICTION
+
 According to National Diabetes Statistics Report more than 1.5 million people die each day worldwide. Diabetes is caused mainly due to high sugar levels in the blood.
 After analysis some of the features which leads to high sugar levels are discussed below
 1. tx -	On Insulin or Diabetes Meds
