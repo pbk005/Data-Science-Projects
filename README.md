@@ -1,6 +1,17 @@
-The dataset is taken from UCI machine learning repository. I have carried out a classification project which deals with the prediction of diabeties. 
+DIABETES PREDICTION
+According to National Diabetes Statistics Report more than 1.5 million people die each day worldwide. Diabetes is caused mainly due to high sugar levels in the blood.
+After analysis some of the features which leads to high sugar levels are discussed below
+1. tx -	On Insulin or Diabetes Meds
+2. dx -	Diagnosed with DM or Pre-DM
+3. tri - Triceps Skinfold
+4. sub -	Subscapular Skinfold
+5. gh -	Glycohemoglobin
+6. bun -	Blood urea nitrogen
+7. SCr	Creatinine
 
-Steps which I have carried out
+The dataset is taken from UCI machine learning repository. A classification project is carried out which deals with the prediction of diabeties. 
+
+Steps which have been carried out:
 1. Feature analysis is performed first like data cleaning and removing outliers, null values, duplicates.
 2. The correlation matrix is generated and a heatmap is plotted as a part of EDA.
 3. Using matplotlib library the data with different features is plotted using bar graphs, scatter plots, histograms for better understanding of the data
